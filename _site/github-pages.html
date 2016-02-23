@@ -23,13 +23,14 @@
             <a class="home-follow" href="https://github.com/bohaohan" title="Contact Me">+</a>
         </div>
         <div class="home-contact">
-            <a href="http://weibo.com/u/2269198360" target="_blank" style="margin-left:-5px;"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-            <!-- <a href="http://www.douban.com/people/beiyuu/" target="_blank" style="text-align:center;"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
-            <a href="http://instagram.com/beiyuu/" target="_blank" style="text-align:right"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a> -->
+            <a href="http://weibo.com/u/2269198360" target="_blank" style="margin-left:-5px;"><img src="/images/sina_favicon.ico" alt="" width="25"/></a>
+            <a href="https://github.com/bohaohan" target="_blank" style="text-align:center;"><img src="/images/github_favicon.ico" alt="" width="22"/></a>
+            <!-- <a href="http://instagram.com/beiyuu/" target="_blank" style="text-align:right"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a> -->
         </div>
     </div>
 
     <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<script id="dsq-count-scr" src="//bohaohan.disqus.com/count.js" async></script>
 <style type="text/css">
     body { background:#e8e8e8; }
     @media screen and (max-width: 750px){
@@ -433,41 +434,48 @@ sudo gem sources -a http://ruby.taobao.org/
 
 <p>如果你跟着这篇不那么详尽的教程，成功搭建了自己的博客，恭喜你！剩下的就是保持热情的去写自己的文章吧。</p>
 
+        <div id="disqus_thread"></div>
+		<script>
+		/**
+		* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+		* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+		*/
+		
+		var disqus_config = function () {
+		this.page.url = "http://bohaohan.github.io/"; // Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = "bohaohan"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		};
+		
+		(function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+
+		s.src = '//bohaohan.disqus.com/embed.js';
+
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+		})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
     </div>
 
-    <div class="sidenav">
-        <iframe width="100%" height="75" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=75&fansRow=2&ptype=1&speed=0&skin=5&isTitle=0&noborder=0&isWeibo=0&isFans=0&uid=1855270953&verifier=375b89d6&dpc=1"></iframe>
-    </div>
 
     <div class="sidenav">
         <h2>Blog</h2>
         <ul class="artical-list">
         
-            <li><a href="/github-pages">使用Github Pages建独立博客</a></li>
-        
-            <li><a href="/why-blog">Helloworld</a></li>
-        
             <li><a href="/helloworld">Helloworld</a></li>
+        
+            <li><a href="/github-pages">使用Github Pages建独立博客</a></li>
         
         </ul>
 
         <h2>Opinion</h2>
         <ul class="artical-list">
         
-            <li><a href="/about-simplify">胡言乱语说简单</a></li>
-        
         </ul>
 
         <h2>Project</h2>
         <ul class="artical-list">
-        
-            <li><a href="/tabby">Tabby</a></li>
-        
-            <li><a href="/notty-notes">Notty Notes</a></li>
-        
-            <li><a href="/overapi-cheatsheet">OverAPI</a></li>
-        
-            <li><a href="/raining-in-chrome">听雨</a></li>
         
         </ul>
     </div>
