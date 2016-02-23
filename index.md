@@ -22,5 +22,26 @@ layout: home
         </ul>
     </div>
     <div class="aside">
+    	<style>
+    		.my {
+    			width: 100%;
+    			text-align: center;
+    		}
+    		.my img {
+    			width: 150px;
+    		}
+    		.myimg {
+    			width: 150px;
+    			height: 150px;
+    			overflow: hidden;
+    			border-radius: 50%;
+    			margin: 80px auto;
+    		}
+    	</style>
+    	<div class = "my">
+    		<div class = "myimg">
+    			<img src = "images/o.png" >
+    		</div>
+    	</div>
     </div>
 </div>
