@@ -28,6 +28,9 @@
             <!-- <a href="http://instagram.com/beiyuu/" target="_blank" style="text-align:right"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a> -->
         </div>
     </div>
+    <div class="home-simg">
+        <img src = "/images/o.png" >
+    </div>
 
     <div class="index-content blog">
     <div class="section">
@@ -128,11 +131,11 @@
         $(function(){
             $('.home-follow').click(function(e){
                 e.preventDefault();
-
-                if($('.home-contact').is(':visible')){
-                    $('.home-contact').slideUp(100);
+                var home_contact = $('.home-contact');
+                if(home_contact.is(':visible')){
+                    home_contact.slideUp(100);
                 }else{
-                    $('.home-contact').slideDown(100);
+                    home_contact.slideDown(100);
                 }
             });
         })
