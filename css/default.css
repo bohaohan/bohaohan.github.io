@@ -116,7 +116,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .project .aside{
     background: #5C5C5C;
 }
-.index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
+.index-content .section { margin-left:30%; padding-top:80px; padding-right:5%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:70px; }

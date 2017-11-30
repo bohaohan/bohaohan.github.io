@@ -7,5 +7,7 @@ description: This project is to recognize the Captcha of Tencent QQ zone.
 
 ## This is the magic of CNN
 
-This project is to recognize the Captcha of Tencent QQ zone.
+https://github.com/bohaohan/Tencent-Captcha-Recognition
+
+This project is to recognize the Captcha of Tencent QQ zone using MobileNet.
 
