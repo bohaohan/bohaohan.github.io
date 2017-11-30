@@ -1,6 +1,6 @@
 auto: true
 
-markdown: rdiscount
+#markdown: rdiscount
 rouge: true
 paginate: 8
 permalink: /:title
