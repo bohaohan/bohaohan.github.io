@@ -5,7 +5,9 @@ layout: home
 <div class="index-content opinion">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Project</span></a></li>
+
+            <li><a href="/"><span>Biography</span></a></li>
+            <li style="text-align:center"><a href="/project"><span>Project</span></a></li>
             <li class="on" style="text-align:center"><a href="/blog"><span>Blog</span></a></li>
             <li style="text-align:right"><a href="/cv.pdf"><span>CV</span></a></li>
         </ul>

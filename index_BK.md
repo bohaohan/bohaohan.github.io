@@ -5,8 +5,7 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-        	<li class="on"><a href="/"><span>Biography</span></a></li>
-            <li style="text-align:center"><a href="/project"><span>Project</span></a></li>
+            <li class="on"><a href="/"><span>Project</span></a></li>
             <li style="text-align:center"><a href="/blog"><span>Blog</span></a></li>
             <li style="text-align:right"><a href="/cv.pdf"><span>CV</span></a></li>
         </ul>
@@ -14,10 +13,12 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        I am a master student at <a href="http://www.mcgill.ca/" target="_blank">McGill University</a>(Canada) in Computer Science. I previously received my B.Eng. in Software
-        Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>(China).
-
-        I am interested in Machine Learning.
+        {% for post in site.categories.project %}
+            <li>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="title-desc">{{ post.description }}</div>
+            </li>
+        {% endfor %}
         </ul>
     </div>
     <div class="aside">
