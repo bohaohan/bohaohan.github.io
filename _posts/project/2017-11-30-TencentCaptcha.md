@@ -5,7 +5,7 @@ category: project
 description: This project is to recognize the Captcha of Tencent QQ zone.
 ---
 
-## This is the magic of CNN
+## This is the magic CNN.
 
 https://github.com/bohaohan/Tencent-Captcha-Recognition
 
