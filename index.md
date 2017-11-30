@@ -13,7 +13,6 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        ccc
         {% for post in site.categories.project %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
