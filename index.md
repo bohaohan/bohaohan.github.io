@@ -8,7 +8,7 @@ layout: home
         	<li class="on"><a href="/"><span>Biography</span></a></li>
             <li style="text-align:center"><a href="/project"><span>Project</span></a></li>
             <li style="text-align:center"><a href="/blog"><span>Blog</span></a></li>
-            <li style="text-align:right"><a href="/cv.pdf"><span>CV</span></a></li>
+            <li style="text-align:center"><a href="/cv.pdf"><span>CV</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
