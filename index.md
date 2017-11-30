@@ -14,10 +14,12 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        I am a master student at <a href="http://www.mcgill.ca/" target="_blank">McGill University</a>(Canada) in Computer Science. I previously received my B.Eng. in Software
-        Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>(China).
-
-        I am interested in Machine Learning.
+			<span style="line-height: 1.8;font-size: 19px;">
+				I am a master student at <a href="http://www.mcgill.ca/" target="_blank">McGill University</a>(Canada) in Computer Science. I previously received my B.Eng. in Software
+				Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>(China).
+				</br>
+				I am interested in Machine Learning.
+			</span>
         </ul>
     </div>
     <div class="aside">
