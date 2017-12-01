@@ -17,8 +17,9 @@ layout: home
 			<span style="line-height: 1.8;font-size: 19px;">
 				I am a master student at <a href="http://www.mcgill.ca/" target="_blank">McGill University</a>(Canada) in Computer Science. I previously received my B.Eng. in Software
 				Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>(China).
-				<br> <br>
-				I am interested in Machine Learning.
+				<br>
+				<br>
+				I am interested in Machine Learning, Computer Vision and Natural Language Processing.
 			</span>
         </ul>
     </div>
