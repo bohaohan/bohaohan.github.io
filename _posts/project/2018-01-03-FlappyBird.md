@@ -7,6 +7,6 @@ description: This project is to let DQN learn Flappy Bird Game.
 
 Learning Flappy Bird Game Using DQN
 
-![Captcha Sample](http://bohaohan.github.io/images/projects/flappybird.gif)
+![Captcha Sample](http://bohaohan.github.io/images/projects/flappybird.gif){:height="30%" width="30%"}
 
 
