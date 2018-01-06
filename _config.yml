@@ -5,7 +5,7 @@ highlighter: rouge
 paginate: 8
 permalink: /:title
 
-title: Haohan Bo
+title: Haohan Bo's Homepage
 url: http://bohaohan.github.io/
 feed: /atom.xml
 author_info: <a href="http://bohaohan.github.io/">Bohaohan</a>
