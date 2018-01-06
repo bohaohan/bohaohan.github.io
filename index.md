@@ -46,7 +46,7 @@ layout: home
     			<img src = "/images/o.png" >
     		</div>
     		<div style="text-align: center;">
-    			<p style = "color: #fff; font-size: 30px;">Haohan Bo</p>
+    			<p style = "color: #fff; font-size: 30px;">Haohan Bo<br>(伯浩瀚)</p>
     			<p style = "color: #9a9a9a;; font-size: 20px;">No pain, no gain.</p>
     		</div>
     	</div>
