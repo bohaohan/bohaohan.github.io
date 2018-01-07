@@ -175,7 +175,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     h3{font-size:16px;}
     embed {display:none;}
 
-    .entry-title,.entry-title a {font-size:24px;}
+    .entry-title,.entry-title a {font-size:20px;}
     .entry-date {margin-bottom:40px;}
     .entry img{max-width:90%;}
     .entry pre ol li{margin-bottom:0;line-height:1em;}
@@ -186,13 +186,18 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .aside { position:relative; width:100%; height:300px; max-width:none; }
     .index-content .section { margin-left:0; padding-right:0; }
     .index-content .section ul { width:85%; }
-    .index-content .cate-bar { width:85%; }
+    .index-content .cate-bar { width:85%; margin-bottom: 50px;}
     .index-content .artical-cate { margin-top:50px; }
 
     .index-content .artical-cate li {
         width: 23%;
         font-size: 14px;
     }
+
+    .index-content .artical-list li {
+        margin-bottom: 30px;
+    }
+
 
     .blog .aside,
     .project .aside,
