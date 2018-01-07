@@ -7,10 +7,10 @@ layout:           default
 <script type="text/javascript">
     $(function(){
         function animateBar($item,noAni){
-            var spanLeft = $item.find('span').offset().left;
+            var spanLeft = $item.find('span').offset().left - 13;
             var conLeft = $item.parent().offset().left;
-            var left = spanLeft - conLeft - 8;
-            var width = $item.find('span').width() + 8;
+            var left = spanLeft - conLeft;
+            var width = $item.find('span').width() + 20;
 
             if(noAni){
                 $('#cateBar').css({left:left,width:width})
