@@ -19,7 +19,7 @@ layout: home
 				Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>(China).
 				<br>
 				<br>
-				I am interested in Machine Learning, Computer Vision and Natural Language Processing.
+				I am interested in Machine Learning, Data Mining, Computer Vision and Natural Language Processing.
 			</span>
         </ul>
     </div>
