@@ -16,7 +16,7 @@ layout: home
         <ul class="artical-list">
             <span style="line-height: 1.8;font-size: 19px;">
                 I am a master student at <a href="http://www.mcgill.ca/" target="_blank">McGill University</a> in Computer Science.
-                I am also a member in the <a href="http://dmas.lab.mcgill.ca/" target="_blank">Data Mining and Security (DMaS) Lab</a>, supervised by  <a href="http://dmas.lab.mcgill.ca/fung/index.htm" target="_blank">Prof. Benjamin C. M. Fung</a>.
+                I am also a member of the <a href="http://dmas.lab.mcgill.ca/" target="_blank">Data Mining and Security (DMaS) Lab</a>, supervised by  <a href="http://dmas.lab.mcgill.ca/fung/index.htm" target="_blank">Prof. Benjamin C. M. Fung</a>.
                 Previously, I received my B.Eng. in Software Engineering from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
                 <br>
                 <br>
